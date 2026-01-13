@@ -191,9 +191,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name - i dont have anything except github :c
 
-Project Link: [https://github.com/yourusername/unsupervised-learning-portfolio](https://github.com/yourusername/unsupervised-learning-portfolio)
 
 ---
 
