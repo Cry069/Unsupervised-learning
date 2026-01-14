@@ -28,34 +28,8 @@ This repository showcases practical implementations of core unsupervised learnin
 ## 📁 Repository Structure
 
 ```
-├── 📂 K-Means_Clustering/
-│   ├── kmeans_implementation.ipynb
-│   ├── elbow_method_visualization.ipynb
-│   └── customer_segmentation_case_study.ipynb
-│
-├── 📂 PCA/
-│   ├── pca_from_scratch.ipynb
-│   ├── variance_explained_analysis.ipynb
-│   └── image_compression_demo.ipynb
-│
-├── 📂 t-SNE_UMAP/
-│   ├── tsne_high_dimensional_visualization.ipynb
-│   ├── umap_vs_tsne_comparison.ipynb
-│   └── mnist_visualization.ipynb
-│
-├── 📂 Advanced_Clustering/
-│   ├── dbscan_clustering.ipynb
-│   ├── hierarchical_clustering.ipynb
-│   ├── spectral_clustering.ipynb
-│   └── clustering_comparison_study.ipynb
-│
-├── 📂 Datasets/
-│   └── (Sample datasets for practice)
-│
-├── 📂 Results/
-│   └── (Generated visualizations and outputs)
-│
-└── 📜 requirements.txt
+├── 📂 Algorithm Implementation/
+
 ```
 
 ---
@@ -194,12 +168,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Your Name - i dont have anything except github :c
 
 
+
 ---
 
 ⭐ **Star this repo if you found it useful!** ⭐
 
-*"The goal is to transform data into information, and information into insight."* - Carly Fiorina
+*"In the end, I became the very thing I hated."* - Eren Jaeger
 
 ---
 
-**Note:** GitHub renders Markdown with consistent styling, but the visual hierarchy is now clearer with horizontal lines separating sections. For more distinct styling, you could also use emojis, bold text, or different heading levels to create visual separation.
+
